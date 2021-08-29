@@ -1,0 +1,31 @@
+{
+  "name": "code-20210829-vikas",
+  "version": "1.0.0",
+  "description": "Calculate BMI for the large json data",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viratsoam/code-20210829-vikas.git"
+  },
+  "keywords": [
+    "BMI"
+  ],
+  "author": "Vikas Soam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viratsoam/code-20210829-vikas/issues"
+  },
+  "homepage": "https://github.com/Viratsoam/code-20210829-vikas#readme",
+  "dependencies": {
+    "stream-json": "^1.7.2"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
